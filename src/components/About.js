@@ -61,7 +61,7 @@ const About = () => {
               <ul className="list-2">
                 <li>
                   <h6>
-                    <span className="font-weight-600">Langages</span>
+                    <span className="font-weight-600">Languages</span>
                     Italian - English
                   </h6>
                 </li>
