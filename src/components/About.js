@@ -123,10 +123,7 @@ const About = () => {
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>
-                        Ho iniziato la mia avventura nel mondo del lavoro qui e
-                        spero che continui per piu tempo possibile.
-                      </p>
+                      <p>Coming soon...</p>
                     </div>
                   </div>
                 </div>
@@ -157,10 +154,7 @@ const About = () => {
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>
-                        Il mio primo approccio nel mondo della programmazione
-                        web è stato un corso su start2Impact (modificare).
-                      </p>
+                      <p>Coming soon...</p>
                     </div>
                   </div>
                 </div>
@@ -182,11 +176,7 @@ const About = () => {
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>
-                        Dopo esperienza terribile in start2impoact ho avuto
-                        occasione di poter fare questo corso per loro e devo
-                        dire mi sono trovato bene (modificare)
-                      </p>
+                      <p>Coming soon...</p>
                     </div>
                   </div>
                 </div>

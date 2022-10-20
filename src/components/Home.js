@@ -17,11 +17,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
         <div className="main-text" id="selector">
           <h3>Hi there !</h3>
           <AnimationText />
-          <p>
-            {`I'm`} a Freelance UI/UX Designer and Developer based in London,
-            England. I strives to build immersive and beautiful web applications
-            through carefully crafted code and user-centric design.
-          </p>
+          <p> Coming soon...</p>
           <div className="call-to-actions-home">
             <div className="text-left">
               <a

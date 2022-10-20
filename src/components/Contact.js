@@ -117,11 +117,7 @@ const Contact = () => {
             {/* Contact Infos Ends */}
             {/* Contact Form Starts */}
             <div className="col-12 col-md-8 col-xl-8 rightside">
-              <p>
-                If you have any suggestion, project or even you want to say
-                Hello.. please fill out the form below and I will reply you
-                shortly.
-              </p>
+              <p>Coming soon...</p>
               <form className="contactform" onSubmit={(e) => onSubmit(e)}>
                 <div className="row">
                   {/* Name Field Starts */}
