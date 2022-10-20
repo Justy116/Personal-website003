@@ -26,6 +26,7 @@ const workData = [
     client: "FOR ME",
     duration: "3 DAYS",
     technologies: ["HTML", "CSS", "JAVASCRIPT"],
+    link: "https://justy116.github.io/htmlcss-netflix-1/",
   },
   {
     img: "img/projects/project-3.jpg",
@@ -35,6 +36,7 @@ const workData = [
     client: "ENVATO",
     duration: "3 MONTHS",
     technologies: ["HTML", "JAVASCRIPT"],
+    link: "https:/google.com",
   },
 ];
 
@@ -200,3 +202,4 @@ const Work = () => {
   );
 };
 export default Work;
+3;

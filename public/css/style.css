@@ -1117,10 +1117,12 @@ body.bgvideo #main > section#home:after {
 }
 
 .leftimagepicture {
-  position: fixed;
+  height: 350px;
+  object-fit: cover;
+  position: absolute;
   border-radius: 50%;
-  max-width: 320px;
-  left: calc(50vw - 500px);
+  width: 350px;
+  left: calc(50vw - 550px);
   top: calc(50vh - 160px);
   border: 10px solid rgba(255, 255, 255, 0.1);
   z-index: 1;
